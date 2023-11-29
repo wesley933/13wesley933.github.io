@@ -1,0 +1,29 @@
+-instale o NodeJs
+-Abra o terminal e execute o comando "npx create-react-app app-react" 
+o comando vai criar uma pasta chamada app-react como a estrutura inicial
+-cd app-react
+
+codigo:
+
+
+
+import React from 'react';
+
+function App() {
+
+return (
+
+<div>
+
+<h1>Hello, React!</h1>
+
+</div>
+
+);
+}
+export default App;
+
+
+
+-e coloque o seguinte comando "npm start"
+
